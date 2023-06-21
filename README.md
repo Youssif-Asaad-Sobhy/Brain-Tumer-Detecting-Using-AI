@@ -9,3 +9,18 @@ The 3 Algorithms used are:-
   <li>LOGISTIC REGRESSION</li>
   <li>KNN (k-nearest neighbors algorithm)</li>
 </ol>
+<img src="Slides\Slide1.JPG" >
+<img src="Slides\Slide2.JPG" >
+<img src="Slides\Slide3.JPG" >
+<img src="Slides\Slide4.JPG" >
+<img src="Slides\Slide5.JPG" >
+<img src="Slides\Slide6.JPG" >
+<img src="Slides\Slide7.JPG" >
+<img src="Slides\Slide8.JPG" >
+<img src="Slides\Slide9.JPG" >
+<img src="Slides\Slide10.JPG" >
+<img src="Slides\Slide11.JPG" >
+<img src="Slides\Slide12.JPG" >
+<img src="Slides\Slide13.JPG" >
+<img src="Slides\Slide14.JPG" >
+<img src="Slides\Slide15.JPG" >
