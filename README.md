@@ -1,5 +1,5 @@
 # Brain Tumer Detecting Using ML
-It is an AI project that implemented with python 
+It is a ML project that implemented with python 
 
 Using the SciKit-Learn (SKLearn) library to train the model with a given data and achieving a score 98 - 99 % accuracy rate and applying 3 different algorithms to make sure there is no error 
 
